@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name     = 'LBZSpinner'
   s.version  = '1.0.0'
-  s.license      = { :type => "Apache", :file => "LICENSE.txt" }
+  s.license      = { :type => "Apache", :file => "LICENSE" }
   s.summary  = 'Simple Spinner with dropdown-list for iOS (like android)'
   s.homepage = 'https://github.com/LeBzul/LBZSpinner'
   s.author  =  { "Guillian Drouin" => "drouingui@gmail.com" }
