@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author  =  { "Guillian Drouin" => "drouingui@gmail.com" }
   s.platform     = :ios
   s.ios.deployment_target = '9.0'
-  s.source   = { :git => 'git@github.com:soleiltw/LBZSpinner.git', :branch => 'master'}
+  s.source   = { :git => 'git@github.com:LeBzul/LBZSpinner.git', :branch => 'master'}
   s.source_files = 'LBZSpinner.swift'
   s.frameworks   = ['Foundation', 'UIKit']
   s.requires_arc = true
